@@ -4,7 +4,9 @@ I have designed my web cv to present information in a clear and visually appeali
 
 To the right of my profile, there is a dynamic slider that showcases the most important projects I have worked on. Each slide includes a brief explanation of the project and a link that redirects visitors to explore it in detail. When scrolling down, users can access an accordion section that reveals my academic background and work experience, displayed chronologically from the beginning to the most recent update.
 
-This is followed by a section showing the languages I speak, along with their fluency levels. Further down, there are two columns: the left one presents my key technical skills represented by progress bars, while the right column includes a radar chart illustrating my soft skills, rated from 0 to 100. Finally, the portfolio section displays all my projects, each linked to its GitHub repository through a clickable image.
+This is followed by a section showing the languages I speak, along with their fluency levels. Further down, there are two columns: the left one presents my key technical skills represented by progress bars, while the right column includes a radar chart illustrating my soft skills, rated from 0 to 100.
+
+Finally, the portfolio section displays all my projects, each linked to its GitHub repository through a clickable image.
 ## Project analysis, Visual design
 The design of my web cv follows a modern, minimalist, and futuristic aesthetic focused on clarity and user experience. The layout uses a dark background combined with vibrant cyan and purple accents to create a high-contrast and professional appearance. Typography is clean and readable, with different font weights to distinguish between headings, body text, and highlighted information.
 
