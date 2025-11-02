@@ -17,6 +17,6 @@ The lower part of the site is organized into two columns, showing technical and 
 
 Finally, the portfolio section presents project thumbnails inside minimalist cards that slightly enlarge on hover.
 
-The website is mainly built using Bootstrap, CSS, and JavaScript, and to make it more personalized, I created several custom CSS classes that enhance the overall visual style and interactivity.
+The website is mainly built using Bootstrap, CSS, and JavaScript, and to make it more personalized, I created several custom CSS classes and made a custom media for the phone users.
 ## Figma
 https://www.figma.com/design/pbhVv33AXiLysWT17Zdile/Hypermedia-project?node-id=0-1&m=dev&t=z5LAQQb1j8MFUf1H-1
